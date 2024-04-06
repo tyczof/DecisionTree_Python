@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # decision trees
-.txt
+*.txt
